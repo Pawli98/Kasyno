@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  event.cpp
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(11): warning C4081: oczekiwano "newline"; znaleziono ";"
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(420): warning C4042: "val": ma złą klasę magazynu
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(509): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(553): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(571): warning C4129: "W": nierozpoznany znak sekwencji ucieczki
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(1170): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(1185): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+e:\studia\studia semestr 3\obiekowe\nr7\xd\event.cpp(1400): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  xD.cpp
+  Trwa generowanie kodu
+  215 of 219 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  xD.vcxproj -> E:\studia\studia semestr 3\obiekowe\nr7\x64\Release\xD.exe

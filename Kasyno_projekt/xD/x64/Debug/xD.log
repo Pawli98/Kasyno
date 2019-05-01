@@ -1,0 +1,8 @@
+﻿  event.cpp
+c:\users\pawel\onedrive\pulpit\studia\obiekowe\nr6\xd\event.cpp(351): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\pawel\onedrive\pulpit\studia\obiekowe\nr6\xd\event.cpp(395): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+c:\users\pawel\onedrive\pulpit\studia\obiekowe\nr6\xd\event.cpp(413): warning C4129: "W": nierozpoznany znak sekwencji ucieczki
+c:\users\pawel\onedrive\pulpit\studia\obiekowe\nr6\xd\event.cpp(1014): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\pawel\onedrive\pulpit\studia\obiekowe\nr6\xd\event.cpp(1029): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\pawel\onedrive\pulpit\studia\obiekowe\nr6\xd\event.cpp(1214): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  xD.vcxproj -> C:\Users\pawel\OneDrive\Pulpit\studia\obiekowe\nr6\x64\Debug\xD.exe
