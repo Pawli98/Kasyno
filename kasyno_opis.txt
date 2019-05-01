@@ -1,4 +1,4 @@
-Projekt Kasyna zosta³ napisany w c++ mia³ na celu zrobienie aplikacji konsolowej na wzór kasyna w rzeczywistoœci.
-W tym projekcie mamy kilka opcji do wyboru w menu g³ównym oraz w menu pobocznym.
-W menu g³ównym mamy kilka opcji takich jak logowanie,pokazanie najlizszego evenu, mo¿liwoœæ policzenia swoich ¿etonów.
-Mamy menu poboczne pracowników w którym mo¿emy ich dodaæ oraz usun¹æ oraz menu Gry w którym znajduj¹ siê gry oraz informacje na ich temat.
+Projekt Kasyna zostaÅ‚ napisany w c++ miaÅ‚ na celu zrobienie aplikacji konsolowej na wzÃ³r kasyna w rzeczywistoÅ›ci.
+W tym projekcie mamy kilka opcji do wyboru w menu gÅ‚Ã³wnym oraz w menu pobocznym.
+W menu gÅ‚Ã³wnym mamy takie opcje jak logowanie,pokazanie najlizszego evenu, moÅ¼liwoÅ›Ä‡ policzenia swoich Å¼etonÃ³w.
+Mamy menu poboczne pracownikÃ³w w ktÃ³rym moÅ¼emy ich dodaÄ‡ oraz usunÄ…Ä‡ oraz menu Gry w ktÃ³rym znajdujÄ… siÄ™ gry oraz informacje na ich temat.
